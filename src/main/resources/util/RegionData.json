@@ -1,0 +1,1362 @@
+[
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "서울특별시",
+      "GAS_EMISN_AMNT": 12324706,
+      "POPLTN_EMISN_AMNT": 3,
+      "ENTRPS_EMISN_AMNT": 37348,
+      "BIZPLC_EMISN_AMNT": 3582
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "부산광역시",
+      "GAS_EMISN_AMNT": 6787007,
+      "POPLTN_EMISN_AMNT": 4,
+      "ENTRPS_EMISN_AMNT": 48827,
+      "BIZPLC_EMISN_AMNT": 9086
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "대구광역시",
+      "GAS_EMISN_AMNT": 3697602,
+      "POPLTN_EMISN_AMNT": 3,
+      "ENTRPS_EMISN_AMNT": 30813,
+      "BIZPLC_EMISN_AMNT": 7395
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "인천광역시",
+      "GAS_EMISN_AMNT": 45126832,
+      "POPLTN_EMISN_AMNT": 36,
+      "ENTRPS_EMISN_AMNT": 324653,
+      "BIZPLC_EMISN_AMNT": 70954
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "광주광역시",
+      "GAS_EMISN_AMNT": 1443049,
+      "POPLTN_EMISN_AMNT": 2,
+      "ENTRPS_EMISN_AMNT": 14010,
+      "BIZPLC_EMISN_AMNT": 4454
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "대전광역시",
+      "GAS_EMISN_AMNT": 3867799,
+      "POPLTN_EMISN_AMNT": 6,
+      "ENTRPS_EMISN_AMNT": 30455,
+      "BIZPLC_EMISN_AMNT": 8771
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "울산광역시",
+      "GAS_EMISN_AMNT": 47203695,
+      "POPLTN_EMISN_AMNT": 99,
+      "ENTRPS_EMISN_AMNT": 284360,
+      "BIZPLC_EMISN_AMNT": 124878
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "세종특별자치시",
+      "GAS_EMISN_AMNT": 2245895,
+      "POPLTN_EMISN_AMNT": 16,
+      "ENTRPS_EMISN_AMNT": 54778,
+      "BIZPLC_EMISN_AMNT": 24680
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "경기도",
+      "GAS_EMISN_AMNT": 62896149,
+      "POPLTN_EMISN_AMNT": 11,
+      "ENTRPS_EMISN_AMNT": 173268,
+      "BIZPLC_EMISN_AMNT": 19299
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "강원도",
+      "GAS_EMISN_AMNT": 44206196,
+      "POPLTN_EMISN_AMNT": 60,
+      "ENTRPS_EMISN_AMNT": 340048,
+      "BIZPLC_EMISN_AMNT": 81261
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "충청북도",
+      "GAS_EMISN_AMNT": 21256076,
+      "POPLTN_EMISN_AMNT": 29,
+      "ENTRPS_EMISN_AMNT": 122161,
+      "BIZPLC_EMISN_AMNT": 32452
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "충청남도",
+      "GAS_EMISN_AMNT": 141911607,
+      "POPLTN_EMISN_AMNT": 144,
+      "ENTRPS_EMISN_AMNT": 716725,
+      "BIZPLC_EMISN_AMNT": 203312
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "전라북도",
+      "GAS_EMISN_AMNT": 13578538,
+      "POPLTN_EMISN_AMNT": 16,
+      "ENTRPS_EMISN_AMNT": 84866,
+      "BIZPLC_EMISN_AMNT": 24643
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "전라남도",
+      "GAS_EMISN_AMNT": 93199097,
+      "POPLTN_EMISN_AMNT": 104,
+      "ENTRPS_EMISN_AMNT": 660987,
+      "BIZPLC_EMISN_AMNT": 164372
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "경상북도",
+      "GAS_EMISN_AMNT": 50697916,
+      "POPLTN_EMISN_AMNT": 40,
+      "ENTRPS_EMISN_AMNT": 256050,
+      "BIZPLC_EMISN_AMNT": 59435
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "경상남도",
+      "GAS_EMISN_AMNT": 35581389,
+      "POPLTN_EMISN_AMNT": 24,
+      "ENTRPS_EMISN_AMNT": 203322,
+      "BIZPLC_EMISN_AMNT": 39800
+    },
+    {
+      "YY": "2020",
+      "METROPL_SIDO_NM": "제주특별자치도",
+      "GAS_EMISN_AMNT": 1584366,
+      "POPLTN_EMISN_AMNT": 5,
+      "ENTRPS_EMISN_AMNT": 6713,
+      "BIZPLC_EMISN_AMNT": 6713
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "서울특별시",
+      "GAS_EMISN_AMNT": 11366609,
+      "POPLTN_EMISN_AMNT": 1.168,
+      "ENTRPS_EMISN_AMNT": 35744.053,
+      "BIZPLC_EMISN_AMNT": 3305.208
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "부산광역시",
+      "GAS_EMISN_AMNT": 6747556,
+      "POPLTN_EMISN_AMNT": 1.977,
+      "ENTRPS_EMISN_AMNT": 47518,
+      "BIZPLC_EMISN_AMNT": 9032.873
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "대구광역시",
+      "GAS_EMISN_AMNT": 4003434,
+      "POPLTN_EMISN_AMNT": 1.642,
+      "ENTRPS_EMISN_AMNT": 33642.303,
+      "BIZPLC_EMISN_AMNT": 8087.745
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "인천광역시",
+      "GAS_EMISN_AMNT": 48301096,
+      "POPLTN_EMISN_AMNT": 16.334,
+      "ENTRPS_EMISN_AMNT": 345007.829,
+      "BIZPLC_EMISN_AMNT": 76546.903
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "광주광역시",
+      "GAS_EMISN_AMNT": 1557749,
+      "POPLTN_EMISN_AMNT": 1.07,
+      "ENTRPS_EMISN_AMNT": 14695.745,
+      "BIZPLC_EMISN_AMNT": 4749.235
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "대전광역시",
+      "GAS_EMISN_AMNT": 4065470,
+      "POPLTN_EMISN_AMNT": 2.756,
+      "ENTRPS_EMISN_AMNT": 32523.76,
+      "BIZPLC_EMISN_AMNT": 9281.895
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "울산광역시",
+      "GAS_EMISN_AMNT": 48437285,
+      "POPLTN_EMISN_AMNT": 42.192,
+      "ENTRPS_EMISN_AMNT": 295349.299,
+      "BIZPLC_EMISN_AMNT": 130911.581
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "세종특별자치시",
+      "GAS_EMISN_AMNT": 1828396,
+      "POPLTN_EMISN_AMNT": 5.369,
+      "ENTRPS_EMISN_AMNT": 46881.949,
+      "BIZPLC_EMISN_AMNT": 21510.541
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "경기도",
+      "GAS_EMISN_AMNT": 61854822,
+      "POPLTN_EMISN_AMNT": 4.672,
+      "ENTRPS_EMISN_AMNT": 173262.807,
+      "BIZPLC_EMISN_AMNT": 19150.1
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "강원도",
+      "GAS_EMISN_AMNT": 49424508,
+      "POPLTN_EMISN_AMNT": 32.063,
+      "ENTRPS_EMISN_AMNT": 380188.523,
+      "BIZPLC_EMISN_AMNT": 92038.19
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "충청북도",
+      "GAS_EMISN_AMNT": 21767025,
+      "POPLTN_EMISN_AMNT": 13.604,
+      "ENTRPS_EMISN_AMNT": 127292.544,
+      "BIZPLC_EMISN_AMNT": 33436.29
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "충청남도",
+      "GAS_EMISN_AMNT": 151149802,
+      "POPLTN_EMISN_AMNT": 71.173,
+      "ENTRPS_EMISN_AMNT": 767257.878,
+      "BIZPLC_EMISN_AMNT": 232896.459
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "전라북도",
+      "GAS_EMISN_AMNT": 14931263,
+      "POPLTN_EMISN_AMNT": 8.209,
+      "ENTRPS_EMISN_AMNT": 95713.224,
+      "BIZPLC_EMISN_AMNT": 27548.456
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "전라남도",
+      "GAS_EMISN_AMNT": 98094884,
+      "POPLTN_EMISN_AMNT": 52.492,
+      "ENTRPS_EMISN_AMNT": 705718.59,
+      "BIZPLC_EMISN_AMNT": 174857.191
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "경상북도",
+      "GAS_EMISN_AMNT": 54013530,
+      "POPLTN_EMISN_AMNT": 20.261,
+      "ENTRPS_EMISN_AMNT": 275579.235,
+      "BIZPLC_EMISN_AMNT": 63470.658
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "경상남도",
+      "GAS_EMISN_AMNT": 47656268,
+      "POPLTN_EMISN_AMNT": 14.173,
+      "ENTRPS_EMISN_AMNT": 264757.044,
+      "BIZPLC_EMISN_AMNT": 53486.272
+    },
+    {
+      "YY": "2019",
+      "METROPL_SIDO_NM": "제주특별자치도",
+      "GAS_EMISN_AMNT": 1798861,
+      "POPLTN_EMISN_AMNT": 2.681,
+      "ENTRPS_EMISN_AMNT": 28107.203,
+      "BIZPLC_EMISN_AMNT": 7622.292
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "서울특별시",
+      "GAS_EMISN_AMNT": 11938224,
+      "POPLTN_EMISN_AMNT": 1.222,
+      "ENTRPS_EMISN_AMNT": 38886.723,
+      "BIZPLC_EMISN_AMNT": 3520.561
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "부산광역시",
+      "GAS_EMISN_AMNT": 7937452,
+      "POPLTN_EMISN_AMNT": 2.306,
+      "ENTRPS_EMISN_AMNT": 59234.716,
+      "BIZPLC_EMISN_AMNT": 10888.137
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "대구광역시",
+      "GAS_EMISN_AMNT": 4876083,
+      "POPLTN_EMISN_AMNT": 1.981,
+      "ENTRPS_EMISN_AMNT": 41675.923,
+      "BIZPLC_EMISN_AMNT": 9930.923
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "인천광역시",
+      "GAS_EMISN_AMNT": 51185816,
+      "POPLTN_EMISN_AMNT": 17.324,
+      "ENTRPS_EMISN_AMNT": 376366.294,
+      "BIZPLC_EMISN_AMNT": 81376.496
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "광주광역시",
+      "GAS_EMISN_AMNT": 1879961,
+      "POPLTN_EMISN_AMNT": 1.288,
+      "ENTRPS_EMISN_AMNT": 19183.276,
+      "BIZPLC_EMISN_AMNT": 5874.878
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "대전광역시",
+      "GAS_EMISN_AMNT": 4437745,
+      "POPLTN_EMISN_AMNT": 2.978,
+      "ENTRPS_EMISN_AMNT": 36374.959,
+      "BIZPLC_EMISN_AMNT": 10272.558
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "울산광역시",
+      "GAS_EMISN_AMNT": 49685490,
+      "POPLTN_EMISN_AMNT": 42.995,
+      "ENTRPS_EMISN_AMNT": 316468.089,
+      "BIZPLC_EMISN_AMNT": 132494.64
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "세종특별자치시",
+      "GAS_EMISN_AMNT": 2268010,
+      "POPLTN_EMISN_AMNT": 7.22,
+      "ENTRPS_EMISN_AMNT": 61297.568,
+      "BIZPLC_EMISN_AMNT": 28708.987
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "경기도",
+      "GAS_EMISN_AMNT": 64463809,
+      "POPLTN_EMISN_AMNT": 4.929,
+      "ENTRPS_EMISN_AMNT": 186311.587,
+      "BIZPLC_EMISN_AMNT": 20374.149
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "강원도",
+      "GAS_EMISN_AMNT": 50173655,
+      "POPLTN_EMISN_AMNT": 32.516,
+      "ENTRPS_EMISN_AMNT": 404626.25,
+      "BIZPLC_EMISN_AMNT": 94311.382
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "충청북도",
+      "GAS_EMISN_AMNT": 22010132,
+      "POPLTN_EMISN_AMNT": 13.763,
+      "ENTRPS_EMISN_AMNT": 133394.739,
+      "BIZPLC_EMISN_AMNT": 34498.639
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "충청남도",
+      "GAS_EMISN_AMNT": 157622104,
+      "POPLTN_EMISN_AMNT": 74.13,
+      "ENTRPS_EMISN_AMNT": 852011.373,
+      "BIZPLC_EMISN_AMNT": 250591.58
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "전라북도",
+      "GAS_EMISN_AMNT": 15671547,
+      "POPLTN_EMISN_AMNT": 8.532,
+      "ENTRPS_EMISN_AMNT": 101106.755,
+      "BIZPLC_EMISN_AMNT": 28861.044
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "전라남도",
+      "GAS_EMISN_AMNT": 97948699,
+      "POPLTN_EMISN_AMNT": 52.018,
+      "ENTRPS_EMISN_AMNT": 714954.007,
+      "BIZPLC_EMISN_AMNT": 175535.303
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "경상북도",
+      "GAS_EMISN_AMNT": 54228078,
+      "POPLTN_EMISN_AMNT": 20.258,
+      "ENTRPS_EMISN_AMNT": 278092.708,
+      "BIZPLC_EMISN_AMNT": 63872.883
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "경상남도",
+      "GAS_EMISN_AMNT": 52461483,
+      "POPLTN_EMISN_AMNT": 15.549,
+      "ENTRPS_EMISN_AMNT": 291452.683,
+      "BIZPLC_EMISN_AMNT": 59345.569
+    },
+    {
+      "YY": "2018",
+      "METROPL_SIDO_NM": "제주특별자치도",
+      "GAS_EMISN_AMNT": 1909010,
+      "POPLTN_EMISN_AMNT": 2.861,
+      "ENTRPS_EMISN_AMNT": 31295.246,
+      "BIZPLC_EMISN_AMNT": 8300.043
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "서울특별시",
+      "GAS_EMISN_AMNT": 11732206,
+      "POPLTN_EMISN_AMNT": 1.19,
+      "ENTRPS_EMISN_AMNT": 38848.364,
+      "BIZPLC_EMISN_AMNT": 3182.047
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "부산광역시",
+      "GAS_EMISN_AMNT": 7239949,
+      "POPLTN_EMISN_AMNT": 2.086,
+      "ENTRPS_EMISN_AMNT": 53234.919,
+      "BIZPLC_EMISN_AMNT": 9305.847
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "대구광역시",
+      "GAS_EMISN_AMNT": 4785544,
+      "POPLTN_EMISN_AMNT": 1.933,
+      "ENTRPS_EMISN_AMNT": 40214.655,
+      "BIZPLC_EMISN_AMNT": 9012.324
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "인천광역시",
+      "GAS_EMISN_AMNT": 50108309,
+      "POPLTN_EMISN_AMNT": 16.994,
+      "ENTRPS_EMISN_AMNT": 391471.164,
+      "BIZPLC_EMISN_AMNT": 77928.941
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "광주광역시",
+      "GAS_EMISN_AMNT": 2516153,
+      "POPLTN_EMISN_AMNT": 1.719,
+      "ENTRPS_EMISN_AMNT": 25415.687,
+      "BIZPLC_EMISN_AMNT": 7067.846
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "대전광역시",
+      "GAS_EMISN_AMNT": 4428632,
+      "POPLTN_EMISN_AMNT": 2.948,
+      "ENTRPS_EMISN_AMNT": 36300.262,
+      "BIZPLC_EMISN_AMNT": 9797.858
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "울산광역시",
+      "GAS_EMISN_AMNT": 45289654,
+      "POPLTN_EMISN_AMNT": 38.871,
+      "ENTRPS_EMISN_AMNT": 294088.662,
+      "BIZPLC_EMISN_AMNT": 119813.899
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "세종특별자치시",
+      "GAS_EMISN_AMNT": 1957585,
+      "POPLTN_EMISN_AMNT": 6.989,
+      "ENTRPS_EMISN_AMNT": 54377.361,
+      "BIZPLC_EMISN_AMNT": 25423.182
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "경기도",
+      "GAS_EMISN_AMNT": 55360546,
+      "POPLTN_EMISN_AMNT": 4.3,
+      "ENTRPS_EMISN_AMNT": 166247.886,
+      "BIZPLC_EMISN_AMNT": 16710.095
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "강원도",
+      "GAS_EMISN_AMNT": 45091191,
+      "POPLTN_EMISN_AMNT": 29.088,
+      "ENTRPS_EMISN_AMNT": 378917.571,
+      "BIZPLC_EMISN_AMNT": 83194.079
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "충청북도",
+      "GAS_EMISN_AMNT": 22886447,
+      "POPLTN_EMISN_AMNT": 14.354,
+      "ENTRPS_EMISN_AMNT": 143040.294,
+      "BIZPLC_EMISN_AMNT": 35482.864
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "충청남도",
+      "GAS_EMISN_AMNT": 159731217,
+      "POPLTN_EMISN_AMNT": 75.46,
+      "ENTRPS_EMISN_AMNT": 868104.44,
+      "BIZPLC_EMISN_AMNT": 242016.995
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "전라북도",
+      "GAS_EMISN_AMNT": 16063178,
+      "POPLTN_EMISN_AMNT": 8.661,
+      "ENTRPS_EMISN_AMNT": 101665.684,
+      "BIZPLC_EMISN_AMNT": 28380.173
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "전라남도",
+      "GAS_EMISN_AMNT": 98111284,
+      "POPLTN_EMISN_AMNT": 51.735,
+      "ENTRPS_EMISN_AMNT": 721406.5,
+      "BIZPLC_EMISN_AMNT": 174575.238
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "경상북도",
+      "GAS_EMISN_AMNT": 52311697,
+      "POPLTN_EMISN_AMNT": 19.434,
+      "ENTRPS_EMISN_AMNT": 275324.721,
+      "BIZPLC_EMISN_AMNT": 60686.423
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "경상남도",
+      "GAS_EMISN_AMNT": 54320298,
+      "POPLTN_EMISN_AMNT": 16.069,
+      "ENTRPS_EMISN_AMNT": 305170.213,
+      "BIZPLC_EMISN_AMNT": 57849.093
+    },
+    {
+      "YY": "2017",
+      "METROPL_SIDO_NM": "제주특별자치도",
+      "GAS_EMISN_AMNT": 1630268,
+      "POPLTN_EMISN_AMNT": 2.481,
+      "ENTRPS_EMISN_AMNT": 27171.133,
+      "BIZPLC_EMISN_AMNT": 6521.072
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "서울특별시",
+      "GAS_EMISN_AMNT": 11666371,
+      "POPLTN_EMISN_AMNT": 1.175,
+      "ENTRPS_EMISN_AMNT": 38758.708,
+      "BIZPLC_EMISN_AMNT": 3386.465
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "부산광역시",
+      "GAS_EMISN_AMNT": 7750073,
+      "POPLTN_EMISN_AMNT": 2.215,
+      "ENTRPS_EMISN_AMNT": 60078.085,
+      "BIZPLC_EMISN_AMNT": 10529.99
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "대구광역시",
+      "GAS_EMISN_AMNT": 4996989,
+      "POPLTN_EMISN_AMNT": 2.011,
+      "ENTRPS_EMISN_AMNT": 42347.364,
+      "BIZPLC_EMISN_AMNT": 9554.472
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "인천광역시",
+      "GAS_EMISN_AMNT": 51358093,
+      "POPLTN_EMISN_AMNT": 17.451,
+      "ENTRPS_EMISN_AMNT": 407603.913,
+      "BIZPLC_EMISN_AMNT": 81006.456
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "광주광역시",
+      "GAS_EMISN_AMNT": 2339457,
+      "POPLTN_EMISN_AMNT": 1.592,
+      "ENTRPS_EMISN_AMNT": 24887.84,
+      "BIZPLC_EMISN_AMNT": 6553.101
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "대전광역시",
+      "GAS_EMISN_AMNT": 4522658,
+      "POPLTN_EMISN_AMNT": 2.986,
+      "ENTRPS_EMISN_AMNT": 37070.967,
+      "BIZPLC_EMISN_AMNT": 11112.182
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "울산광역시",
+      "GAS_EMISN_AMNT": 46948845,
+      "POPLTN_EMISN_AMNT": 40.048,
+      "ENTRPS_EMISN_AMNT": 321567.432,
+      "BIZPLC_EMISN_AMNT": 127926.008
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "세종특별자치시",
+      "GAS_EMISN_AMNT": 1902740,
+      "POPLTN_EMISN_AMNT": 7.829,
+      "ENTRPS_EMISN_AMNT": 52853.889,
+      "BIZPLC_EMISN_AMNT": 26799.155
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "경기도",
+      "GAS_EMISN_AMNT": 51895912,
+      "POPLTN_EMISN_AMNT": 4.081,
+      "ENTRPS_EMISN_AMNT": 163709.502,
+      "BIZPLC_EMISN_AMNT": 16417.562
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "강원도",
+      "GAS_EMISN_AMNT": 38363319,
+      "POPLTN_EMISN_AMNT": 24.738,
+      "ENTRPS_EMISN_AMNT": 322380.832,
+      "BIZPLC_EMISN_AMNT": 72934.067
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "충청북도",
+      "GAS_EMISN_AMNT": 22920392,
+      "POPLTN_EMISN_AMNT": 14.401,
+      "ENTRPS_EMISN_AMNT": 150792.053,
+      "BIZPLC_EMISN_AMNT": 35981.777
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "충청남도",
+      "GAS_EMISN_AMNT": 139577573,
+      "POPLTN_EMISN_AMNT": 66.569,
+      "ENTRPS_EMISN_AMNT": 816243.117,
+      "BIZPLC_EMISN_AMNT": 219807.202
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "전라북도",
+      "GAS_EMISN_AMNT": 14927595,
+      "POPLTN_EMISN_AMNT": 8.005,
+      "ENTRPS_EMISN_AMNT": 96307.065,
+      "BIZPLC_EMISN_AMNT": 26656.42
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "전라남도",
+      "GAS_EMISN_AMNT": 94519752,
+      "POPLTN_EMISN_AMNT": 49.645,
+      "ENTRPS_EMISN_AMNT": 516501.377,
+      "BIZPLC_EMISN_AMNT": 165533.716
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "경상북도",
+      "GAS_EMISN_AMNT": 52695752,
+      "POPLTN_EMISN_AMNT": 19.514,
+      "ENTRPS_EMISN_AMNT": 130112.968,
+      "BIZPLC_EMISN_AMNT": 62733.038
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "경상남도",
+      "GAS_EMISN_AMNT": 56962719,
+      "POPLTN_EMISN_AMNT": 16.883,
+      "ENTRPS_EMISN_AMNT": 318227.48,
+      "BIZPLC_EMISN_AMNT": 60341.863
+    },
+    {
+      "YY": "2016",
+      "METROPL_SIDO_NM": "제주특별자치도",
+      "GAS_EMISN_AMNT": 1549902,
+      "POPLTN_EMISN_AMNT": 2.416,
+      "ENTRPS_EMISN_AMNT": 26722.448,
+      "BIZPLC_EMISN_AMNT": 6174.908
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "서울특별시",
+      "GAS_EMISN_AMNT": 11910136,
+      "POPLTN_EMISN_AMNT": 1.188,
+      "ENTRPS_EMISN_AMNT": 39178.079,
+      "BIZPLC_EMISN_AMNT": 3499.893
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "부산광역시",
+      "GAS_EMISN_AMNT": 7208087,
+      "POPLTN_EMISN_AMNT": 2.051,
+      "ENTRPS_EMISN_AMNT": 55876.643,
+      "BIZPLC_EMISN_AMNT": 9928.494
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "대구광역시",
+      "GAS_EMISN_AMNT": 4835724,
+      "POPLTN_EMISN_AMNT": 1.944,
+      "ENTRPS_EMISN_AMNT": 41687.276,
+      "BIZPLC_EMISN_AMNT": 9353.431
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "인천광역시",
+      "GAS_EMISN_AMNT": 52555003,
+      "POPLTN_EMISN_AMNT": 17.963,
+      "ENTRPS_EMISN_AMNT": 420440.024,
+      "BIZPLC_EMISN_AMNT": 84222.761
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "광주광역시",
+      "GAS_EMISN_AMNT": 2344748,
+      "POPLTN_EMISN_AMNT": 1.593,
+      "ENTRPS_EMISN_AMNT": 25212.344,
+      "BIZPLC_EMISN_AMNT": 6796.371
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "대전광역시",
+      "GAS_EMISN_AMNT": 4278001,
+      "POPLTN_EMISN_AMNT": 2.817,
+      "ENTRPS_EMISN_AMNT": 35355.38,
+      "BIZPLC_EMISN_AMNT": 10695.003
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "울산광역시",
+      "GAS_EMISN_AMNT": 44471909,
+      "POPLTN_EMISN_AMNT": 37.896,
+      "ENTRPS_EMISN_AMNT": 302529.993,
+      "BIZPLC_EMISN_AMNT": 123533.081
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "세종특별자치시",
+      "GAS_EMISN_AMNT": 1896539,
+      "POPLTN_EMISN_AMNT": 8.993,
+      "ENTRPS_EMISN_AMNT": 54186.829,
+      "BIZPLC_EMISN_AMNT": 27890.279
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "경기도",
+      "GAS_EMISN_AMNT": 50429620,
+      "POPLTN_EMISN_AMNT": 4.027,
+      "ENTRPS_EMISN_AMNT": 159587.405,
+      "BIZPLC_EMISN_AMNT": 16293.9
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "강원도",
+      "GAS_EMISN_AMNT": 37278745,
+      "POPLTN_EMISN_AMNT": 24.058,
+      "ENTRPS_EMISN_AMNT": 313266.765,
+      "BIZPLC_EMISN_AMNT": 70470.217
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "충청북도",
+      "GAS_EMISN_AMNT": 21770613,
+      "POPLTN_EMISN_AMNT": 13.744,
+      "ENTRPS_EMISN_AMNT": 143227.717,
+      "BIZPLC_EMISN_AMNT": 34944.804
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "충청남도",
+      "GAS_EMISN_AMNT": 138932268,
+      "POPLTN_EMISN_AMNT": 66.87,
+      "ENTRPS_EMISN_AMNT": 826977.786,
+      "BIZPLC_EMISN_AMNT": 224446.313
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "전라북도",
+      "GAS_EMISN_AMNT": 14049081,
+      "POPLTN_EMISN_AMNT": 7.514,
+      "ENTRPS_EMISN_AMNT": 90639.232,
+      "BIZPLC_EMISN_AMNT": 25730.918
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "전라남도",
+      "GAS_EMISN_AMNT": 93852103,
+      "POPLTN_EMISN_AMNT": 49.163,
+      "ENTRPS_EMISN_AMNT": 721939.254,
+      "BIZPLC_EMISN_AMNT": 168193.733
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "경상북도",
+      "GAS_EMISN_AMNT": 52627007,
+      "POPLTN_EMISN_AMNT": 19.471,
+      "ENTRPS_EMISN_AMNT": 284470.308,
+      "BIZPLC_EMISN_AMNT": 64414.941
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "경상남도",
+      "GAS_EMISN_AMNT": 56340423,
+      "POPLTN_EMISN_AMNT": 16.745,
+      "ENTRPS_EMISN_AMNT": 314750.966,
+      "BIZPLC_EMISN_AMNT": 61106.749
+    },
+    {
+      "YY": "2015",
+      "METROPL_SIDO_NM": "제주특별자치도",
+      "GAS_EMISN_AMNT": 1676939,
+      "POPLTN_EMISN_AMNT": 2.686,
+      "ENTRPS_EMISN_AMNT": 28912.741,
+      "BIZPLC_EMISN_AMNT": 7105.674
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "서울특별시",
+      "GAS_EMISN_AMNT": 11894027,
+      "POPLTN_EMISN_AMNT": 1.177,
+      "ENTRPS_EMISN_AMNT": 39779.355,
+      "BIZPLC_EMISN_AMNT": 3668.731
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "부산광역시",
+      "GAS_EMISN_AMNT": 9336753,
+      "POPLTN_EMISN_AMNT": 2.653,
+      "ENTRPS_EMISN_AMNT": 75296.395,
+      "BIZPLC_EMISN_AMNT": 13551.165
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "대구광역시",
+      "GAS_EMISN_AMNT": 3948314,
+      "POPLTN_EMISN_AMNT": 1.584,
+      "ENTRPS_EMISN_AMNT": 34634.333,
+      "BIZPLC_EMISN_AMNT": 8057.784
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "인천광역시",
+      "GAS_EMISN_AMNT": 52527836,
+      "POPLTN_EMISN_AMNT": 18.097,
+      "ENTRPS_EMISN_AMNT": 430556.033,
+      "BIZPLC_EMISN_AMNT": 88879.587
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "광주광역시",
+      "GAS_EMISN_AMNT": 2474469,
+      "POPLTN_EMISN_AMNT": 1.677,
+      "ENTRPS_EMISN_AMNT": 27494.1,
+      "BIZPLC_EMISN_AMNT": 7805.896
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "대전광역시",
+      "GAS_EMISN_AMNT": 4325347,
+      "POPLTN_EMISN_AMNT": 2.824,
+      "ENTRPS_EMISN_AMNT": 36347.454,
+      "BIZPLC_EMISN_AMNT": 11596.105
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "울산광역시",
+      "GAS_EMISN_AMNT": 44561083,
+      "POPLTN_EMISN_AMNT": 38.205,
+      "ENTRPS_EMISN_AMNT": 316036.05,
+      "BIZPLC_EMISN_AMNT": 131837.524
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "세종특별자치시",
+      "GAS_EMISN_AMNT": 1884917,
+      "POPLTN_EMISN_AMNT": 12.073,
+      "ENTRPS_EMISN_AMNT": 60803.774,
+      "BIZPLC_EMISN_AMNT": 31947.746
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "경기도",
+      "GAS_EMISN_AMNT": 45770551,
+      "POPLTN_EMISN_AMNT": 3.704,
+      "ENTRPS_EMISN_AMNT": 144843.516,
+      "BIZPLC_EMISN_AMNT": 15685.59
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "강원도",
+      "GAS_EMISN_AMNT": 38470120,
+      "POPLTN_EMISN_AMNT": 24.909,
+      "ENTRPS_EMISN_AMNT": 337457.193,
+      "BIZPLC_EMISN_AMNT": 74990.487
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "충청북도",
+      "GAS_EMISN_AMNT": 22082483,
+      "POPLTN_EMISN_AMNT": 13.986,
+      "ENTRPS_EMISN_AMNT": 147216.553,
+      "BIZPLC_EMISN_AMNT": 36865.581
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "충청남도",
+      "GAS_EMISN_AMNT": 144348565,
+      "POPLTN_EMISN_AMNT": 69.995,
+      "ENTRPS_EMISN_AMNT": 885574.018,
+      "BIZPLC_EMISN_AMNT": 261501.024
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "전라북도",
+      "GAS_EMISN_AMNT": 14856645,
+      "POPLTN_EMISN_AMNT": 7.938,
+      "ENTRPS_EMISN_AMNT": 97741.086,
+      "BIZPLC_EMISN_AMNT": 29130.676
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "전라남도",
+      "GAS_EMISN_AMNT": 93448429,
+      "POPLTN_EMISN_AMNT": 49.034,
+      "ENTRPS_EMISN_AMNT": 724406.426,
+      "BIZPLC_EMISN_AMNT": 171465.007
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "경상북도",
+      "GAS_EMISN_AMNT": 55090702,
+      "POPLTN_EMISN_AMNT": 20.398,
+      "ENTRPS_EMISN_AMNT": 301042.087,
+      "BIZPLC_EMISN_AMNT": 70089.952
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "경상남도",
+      "GAS_EMISN_AMNT": 57120950,
+      "POPLTN_EMISN_AMNT": 17.05,
+      "ENTRPS_EMISN_AMNT": 326405.429,
+      "BIZPLC_EMISN_AMNT": 67122.15
+    },
+    {
+      "YY": "2014",
+      "METROPL_SIDO_NM": "제주특별자치도",
+      "GAS_EMISN_AMNT": 1960284,
+      "POPLTN_EMISN_AMNT": 3.228,
+      "ENTRPS_EMISN_AMNT": 34390.947,
+      "BIZPLC_EMISN_AMNT": 8673.823
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "서울특별시",
+      "GAS_EMISN_AMNT": 11547957,
+      "POPLTN_EMISN_AMNT": 1.138,
+      "ENTRPS_EMISN_AMNT": 39145.617,
+      "BIZPLC_EMISN_AMNT": 2997.134
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "부산광역시",
+      "GAS_EMISN_AMNT": 9979261,
+      "POPLTN_EMISN_AMNT": 2.829,
+      "ENTRPS_EMISN_AMNT": 78576.858,
+      "BIZPLC_EMISN_AMNT": 16467.427
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "대구광역시",
+      "GAS_EMISN_AMNT": 3164014,
+      "POPLTN_EMISN_AMNT": 1.265,
+      "ENTRPS_EMISN_AMNT": 29296.426,
+      "BIZPLC_EMISN_AMNT": 7256.913
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "인천광역시",
+      "GAS_EMISN_AMNT": 51689712,
+      "POPLTN_EMISN_AMNT": 17.949,
+      "ENTRPS_EMISN_AMNT": 423686.164,
+      "BIZPLC_EMISN_AMNT": 94669.802
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "광주광역시",
+      "GAS_EMISN_AMNT": 1922816,
+      "POPLTN_EMISN_AMNT": 1.305,
+      "ENTRPS_EMISN_AMNT": 21850.182,
+      "BIZPLC_EMISN_AMNT": 6891.814
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "대전광역시",
+      "GAS_EMISN_AMNT": 4150319,
+      "POPLTN_EMISN_AMNT": 2.708,
+      "ENTRPS_EMISN_AMNT": 34876.63,
+      "BIZPLC_EMISN_AMNT": 11926.204
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "울산광역시",
+      "GAS_EMISN_AMNT": 47895041,
+      "POPLTN_EMISN_AMNT": 41.415,
+      "ENTRPS_EMISN_AMNT": 339681.142,
+      "BIZPLC_EMISN_AMNT": 150613.336
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "세종특별자치시",
+      "GAS_EMISN_AMNT": 1082797,
+      "POPLTN_EMISN_AMNT": 8.864,
+      "ENTRPS_EMISN_AMNT": 41646.038,
+      "BIZPLC_EMISN_AMNT": 25181.326
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "경기도",
+      "GAS_EMISN_AMNT": 44022688,
+      "POPLTN_EMISN_AMNT": 3.598,
+      "ENTRPS_EMISN_AMNT": 140199.643,
+      "BIZPLC_EMISN_AMNT": 16178.864
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "강원도",
+      "GAS_EMISN_AMNT": 38199730,
+      "POPLTN_EMISN_AMNT": 24.769,
+      "ENTRPS_EMISN_AMNT": 335085.351,
+      "BIZPLC_EMISN_AMNT": 77641.728
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "충청북도",
+      "GAS_EMISN_AMNT": 21955424,
+      "POPLTN_EMISN_AMNT": 13.96,
+      "ENTRPS_EMISN_AMNT": 146369.493,
+      "BIZPLC_EMISN_AMNT": 39417.278
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "충청남도",
+      "GAS_EMISN_AMNT": 140923975,
+      "POPLTN_EMISN_AMNT": 68.823,
+      "ENTRPS_EMISN_AMNT": 886314.308,
+      "BIZPLC_EMISN_AMNT": 276864.391
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "전라북도",
+      "GAS_EMISN_AMNT": 14432692,
+      "POPLTN_EMISN_AMNT": 7.706,
+      "ENTRPS_EMISN_AMNT": 95580.742,
+      "BIZPLC_EMISN_AMNT": 30707.855
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "전라남도",
+      "GAS_EMISN_AMNT": 87810992,
+      "POPLTN_EMISN_AMNT": 46.043,
+      "ENTRPS_EMISN_AMNT": 686023.375,
+      "BIZPLC_EMISN_AMNT": 180310.045
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "경상북도",
+      "GAS_EMISN_AMNT": 51387944,
+      "POPLTN_EMISN_AMNT": 19.037,
+      "ENTRPS_EMISN_AMNT": 277772.67,
+      "BIZPLC_EMISN_AMNT": 69537.137
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "경상남도",
+      "GAS_EMISN_AMNT": 59519770,
+      "POPLTN_EMISN_AMNT": 17.853,
+      "ENTRPS_EMISN_AMNT": 346045.174,
+      "BIZPLC_EMISN_AMNT": 76503.56
+    },
+    {
+      "YY": "2013",
+      "METROPL_SIDO_NM": "제주특별자치도",
+      "GAS_EMISN_AMNT": 2407026,
+      "POPLTN_EMISN_AMNT": 4.054,
+      "ENTRPS_EMISN_AMNT": 42982.607,
+      "BIZPLC_EMISN_AMNT": 10990.986
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "서울특별시",
+      "GAS_EMISN_AMNT": 11587188,
+      "POPLTN_EMISN_AMNT": 1.137,
+      "ENTRPS_EMISN_AMNT": 40094.076,
+      "BIZPLC_EMISN_AMNT": 3754.76
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "부산광역시",
+      "GAS_EMISN_AMNT": 8977778,
+      "POPLTN_EMISN_AMNT": 2.537,
+      "ENTRPS_EMISN_AMNT": 74196.512,
+      "BIZPLC_EMISN_AMNT": 13984.078
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "대구광역시",
+      "GAS_EMISN_AMNT": 3042149,
+      "POPLTN_EMISN_AMNT": 1.214,
+      "ENTRPS_EMISN_AMNT": 29535.427,
+      "BIZPLC_EMISN_AMNT": 6542.256
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "인천광역시",
+      "GAS_EMISN_AMNT": 50233761,
+      "POPLTN_EMISN_AMNT": 17.663,
+      "ENTRPS_EMISN_AMNT": 425709.839,
+      "BIZPLC_EMISN_AMNT": 90511.281
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "광주광역시",
+      "GAS_EMISN_AMNT": 1751523,
+      "POPLTN_EMISN_AMNT": 1.192,
+      "ENTRPS_EMISN_AMNT": 21102.687,
+      "BIZPLC_EMISN_AMNT": 5897.384
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "대전광역시",
+      "GAS_EMISN_AMNT": 3875209,
+      "POPLTN_EMISN_AMNT": 2.542,
+      "ENTRPS_EMISN_AMNT": 34911.793,
+      "BIZPLC_EMISN_AMNT": 10916.082
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "울산광역시",
+      "GAS_EMISN_AMNT": 48489238,
+      "POPLTN_EMISN_AMNT": 42.265,
+      "ENTRPS_EMISN_AMNT": 356538.515,
+      "BIZPLC_EMISN_AMNT": 151528.869
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "세종특별자치시",
+      "GAS_EMISN_AMNT": 362902,
+      "POPLTN_EMISN_AMNT": 3.208,
+      "ENTRPS_EMISN_AMNT": 32991.091,
+      "BIZPLC_EMISN_AMNT": 22681.375
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "경기도",
+      "GAS_EMISN_AMNT": 40185913,
+      "POPLTN_EMISN_AMNT": 3.323,
+      "ENTRPS_EMISN_AMNT": 140020.603,
+      "BIZPLC_EMISN_AMNT": 14634.346
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "강원도",
+      "GAS_EMISN_AMNT": 38989652,
+      "POPLTN_EMISN_AMNT": 25.34,
+      "ENTRPS_EMISN_AMNT": 364389.271,
+      "BIZPLC_EMISN_AMNT": 79570.718
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "충청북도",
+      "GAS_EMISN_AMNT": 20711078,
+      "POPLTN_EMISN_AMNT": 13.229,
+      "ENTRPS_EMISN_AMNT": 144832.713,
+      "BIZPLC_EMISN_AMNT": 39151.376
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "충청남도",
+      "GAS_EMISN_AMNT": 134496827,
+      "POPLTN_EMISN_AMNT": 66.295,
+      "ENTRPS_EMISN_AMNT": 879064.229,
+      "BIZPLC_EMISN_AMNT": 257656.757
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "전라북도",
+      "GAS_EMISN_AMNT": 14039194,
+      "POPLTN_EMISN_AMNT": 7.494,
+      "ENTRPS_EMISN_AMNT": 98176.182,
+      "BIZPLC_EMISN_AMNT": 29309.382
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "전라남도",
+      "GAS_EMISN_AMNT": 88937988,
+      "POPLTN_EMISN_AMNT": 46.574,
+      "ENTRPS_EMISN_AMNT": 747378.05,
+      "BIZPLC_EMISN_AMNT": 171694.958
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "경상북도",
+      "GAS_EMISN_AMNT": 51037897,
+      "POPLTN_EMISN_AMNT": 18.914,
+      "ENTRPS_EMISN_AMNT": 289988.051,
+      "BIZPLC_EMISN_AMNT": 68970.131
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "경상남도",
+      "GAS_EMISN_AMNT": 59454138,
+      "POPLTN_EMISN_AMNT": 17.912,
+      "ENTRPS_EMISN_AMNT": 362525.232,
+      "BIZPLC_EMISN_AMNT": 74224.891
+    },
+    {
+      "YY": "2012",
+      "METROPL_SIDO_NM": "제주특별자치도",
+      "GAS_EMISN_AMNT": 2336978,
+      "POPLTN_EMISN_AMNT": 4.004,
+      "ENTRPS_EMISN_AMNT": 44093.925,
+      "BIZPLC_EMISN_AMNT": 9944.587
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "서울특별시",
+      "GAS_EMISN_AMNT": 10877161,
+      "POPLTN_EMISN_AMNT": 1.061,
+      "ENTRPS_EMISN_AMNT": 39267.729,
+      "BIZPLC_EMISN_AMNT": 4277.295
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "부산광역시",
+      "GAS_EMISN_AMNT": 9059477,
+      "POPLTN_EMISN_AMNT": 2.551,
+      "ENTRPS_EMISN_AMNT": 78778.061,
+      "BIZPLC_EMISN_AMNT": 17798.58
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "대구광역시",
+      "GAS_EMISN_AMNT": 2998517,
+      "POPLTN_EMISN_AMNT": 1.196,
+      "ENTRPS_EMISN_AMNT": 31234.552,
+      "BIZPLC_EMISN_AMNT": 8104.1
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "인천광역시",
+      "GAS_EMISN_AMNT": 47842538,
+      "POPLTN_EMISN_AMNT": 17.079,
+      "ENTRPS_EMISN_AMNT": 438922.367,
+      "BIZPLC_EMISN_AMNT": 105846.323
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "광주광역시",
+      "GAS_EMISN_AMNT": 1696659,
+      "POPLTN_EMISN_AMNT": 1.159,
+      "ENTRPS_EMISN_AMNT": 22324.461,
+      "BIZPLC_EMISN_AMNT": 7474.269
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "대전광역시",
+      "GAS_EMISN_AMNT": 4001244,
+      "POPLTN_EMISN_AMNT": 2.64,
+      "ENTRPS_EMISN_AMNT": 38473.5,
+      "BIZPLC_EMISN_AMNT": 13382.087
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "울산광역시",
+      "GAS_EMISN_AMNT": 46167077,
+      "POPLTN_EMISN_AMNT": 40.658,
+      "ENTRPS_EMISN_AMNT": 363520.291,
+      "BIZPLC_EMISN_AMNT": 176210.218
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "세종특별자치시",
+      "GAS_EMISN_AMNT": 246362,
+      "POPLTN_EMISN_AMNT": null,
+      "ENTRPS_EMISN_AMNT": 30795.25,
+      "BIZPLC_EMISN_AMNT": 30795.25
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "경기도",
+      "GAS_EMISN_AMNT": 36261411,
+      "POPLTN_EMISN_AMNT": 3.038,
+      "ENTRPS_EMISN_AMNT": 138402.332,
+      "BIZPLC_EMISN_AMNT": 17308.549
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "강원도",
+      "GAS_EMISN_AMNT": 39305692,
+      "POPLTN_EMISN_AMNT": 25.582,
+      "ENTRPS_EMISN_AMNT": 401078.49,
+      "BIZPLC_EMISN_AMNT": 104259.13
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "충청북도",
+      "GAS_EMISN_AMNT": 19541616,
+      "POPLTN_EMISN_AMNT": 12.503,
+      "ENTRPS_EMISN_AMNT": 145832.955,
+      "BIZPLC_EMISN_AMNT": 57475.341
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "충청남도",
+      "GAS_EMISN_AMNT": 135905423,
+      "POPLTN_EMISN_AMNT": 64.677,
+      "ENTRPS_EMISN_AMNT": 957080.444,
+      "BIZPLC_EMISN_AMNT": 358589.507
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "전라북도",
+      "GAS_EMISN_AMNT": 13879245,
+      "POPLTN_EMISN_AMNT": 7.406,
+      "ENTRPS_EMISN_AMNT": 104355.226,
+      "BIZPLC_EMISN_AMNT": 38553.458
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "전라남도",
+      "GAS_EMISN_AMNT": 85994844,
+      "POPLTN_EMISN_AMNT": 44.921,
+      "ENTRPS_EMISN_AMNT": 761016.319,
+      "BIZPLC_EMISN_AMNT": 211809.961
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "경상북도",
+      "GAS_EMISN_AMNT": 52620139,
+      "POPLTN_EMISN_AMNT": 19.495,
+      "ENTRPS_EMISN_AMNT": 330944.27,
+      "BIZPLC_EMISN_AMNT": 99283.281
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "경상남도",
+      "GAS_EMISN_AMNT": 59752991,
+      "POPLTN_EMISN_AMNT": 18.059,
+      "ENTRPS_EMISN_AMNT": 383031.994,
+      "BIZPLC_EMISN_AMNT": 92928.446
+    },
+    {
+      "YY": "2011",
+      "METROPL_SIDO_NM": "제주특별자치도",
+      "GAS_EMISN_AMNT": 2184686,
+      "POPLTN_EMISN_AMNT": 3.792,
+      "ENTRPS_EMISN_AMNT": 44585.429,
+      "BIZPLC_EMISN_AMNT": 10762
+    }
+  ]
